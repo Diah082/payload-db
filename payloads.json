@@ -45,7 +45,7 @@
   },
   "edukasi": {
     "title": "XL/AXIS EDUKASI",
-    "payload": "GET /  HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]\n\n𝗣𝗿𝗼𝘅𝘆:\nblog.skillacademy.com:80"
+    "payload": "GET /  HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]\n\n𝗣𝗿𝗼𝘅𝘆:\nblog.skillacademy.com\n104.17.74.206"
   },
   "confrece": {
     "title": "XL/AXIS CONFRECE",
