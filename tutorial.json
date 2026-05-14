@@ -2,5 +2,42 @@
   "hwid": {
     "title": "CARA MENDAPAT HWID",
     "tutorial": "🔧 *Langkah–langkah Mengambil HWID di ZIVPN*\n\n1. Buka aplikasi ZIVPN di perangkat Anda.\n2. Pada bagian kiri atas, ketuk ikon garis tiga (☰) untuk membuka menu utama.\n3. Gulir ke bawah dan temukan opsi “HWID”, lalu ketuk menu tersebut.\n4. Tempelkan (Paste) kode HWID ke dalam pesan Anda, lalu kirimkan kembali kepada saya."
-  }
+  },
+  "logs": {
+    "title": "CARA MELIHAT LOG PADA ZIVPN",
+    "tutirial": "📖 Tutorial Melihat LOG di Aplikasi ZiVPN
+
+1. Buka aplikasi ZiVPN terlebih dahulu.
+
+2. Hubungkan config seperti biasa dengan menekan tombol CONNECT.
+
+3. Setelah proses berjalan, cari menu:
+   • LOG
+   • Connection Log
+   • Atau ikon titik tiga (⋮) di pojok kanan atas.
+
+4. Di halaman LOG akan muncul informasi proses koneksi secara otomatis.
+
+Contoh log berhasil:
+━━━━━━━━━━━━━━━
+Connecting to server...
+SSH connected
+Authentication successful
+VPN Started
+━━━━━━━━━━━━━━━
+
+Contoh log error:
+━━━━━━━━━━━━━━━
+Connection timeout
+Authentication failed
+Remote proxy closed
+Bad Payload
+━━━━━━━━━━━━━━━
+
+5. Jika log terlalu cepat hilang, gunakan tombol:
+   • Copy Log
+   • Export Log
+   • Share Log
+
+6. Kirim hasil LOG ke admin agar masalah config atau server bisa dicek lebih lanjut.",
 }
