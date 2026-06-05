@@ -21,11 +21,18 @@
     "enhanced": ""
   },
   "tiktok": {
-    "title": "TSEL TIKTOK / XL TIKTOK / THREE SOSMED",
+    "title": "XL TIKTOK/THREE SOSMED",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: api24-normal.tiktokv.com[crlf]Connection: Keep-Alive[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "api24-normal.tiktokv.com:80",
     "sni": "",
     "enhanced": "true"
+  },
+  "tiktokv1": {
+    "title": "TSEL BYU TIKTOK",
+    "payload": "",
+    "proxy": "",
+    "sni": "api24-normal.tiktokv.com",
+    "enhanced": ""
   },
   "XL PRIO": {
     "title": "XL OPOK PRIO",
