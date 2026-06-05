@@ -41,6 +41,13 @@
     "sni": "",
     "enhanced": "true"
   },
+    "sfchat": {
+    "title": "SMARTFREN CHAT NONSTOP",
+    "payload": "",
+    "proxy": "",
+    "sni": "chat.whatsapp.com",
+    "enhanced": ""
+  },
   "WA JS": {
     "title": "XL AXIS WA JABAR SUMATRA",
     "payload": "",
