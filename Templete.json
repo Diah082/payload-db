@@ -8,14 +8,14 @@
   },
   "tselilped": {
     "title": "TSEL ILPED APN HOME",
-    "payload": "GET / HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
+    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
     "proxy": "ilped.nevpn.my.id:443",
     "sni": "[host]",
     "enhanced": ""
   },
     "ilpedv1": {
     "title": "TSEL ILPED NJS",
-    "payload": "GET / HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
+    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
     "proxy": "ilpedv1.nevpn.my.id:443",
     "sni": "[host]",
     "enhanced": ""
@@ -120,14 +120,14 @@
   },
   "edu JS": {
     "title": "XL/AXIS EDUKASI JABAR SUMATRA",
-    "payload": "GET / HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
+    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
     "proxy": "edujs.nevpn.my.id:80",
     "sni": "",
     "enhanced": "true"
   },
   "edu NJS": {
     "title": "XL/AXIS EDUKASI NON JABAR SUMATRA",
-    "payload": "GET / HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
+    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
     "proxy": "edunjs.nevpn.my.id:80",
     "sni": "",
     "enhanced": ""
