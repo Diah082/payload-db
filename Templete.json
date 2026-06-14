@@ -118,7 +118,7 @@
     "sni": "",
     "enhanced": "true"
   },
-    "edu v1": {
+    "eduv1": {
     "title": "XL/AXIS EDUKASI TASIK DAN SEKITARNYA",
     "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
     "proxy": "support.udemy.com:80",
