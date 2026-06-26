@@ -14,7 +14,7 @@
     "enhanced": ""
   },
     "ilpedv1": {
-    "title": "TSEL ILPED",
+    "title": "TSEL ILPED ZOOM TLS",
     "payload": "GET / HTTP/1.1[crlf]Host: support.zoom.us[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
     "proxy": "support.zoom.us:443",
     "sni": "[host]",
