@@ -6,6 +6,21 @@
     "sni": "",
     "enhanced": "true"
   },
+  
+      "ilpedv3": {
+    "title": "TSEL ILPED",
+    "payload": "GET /  HTTP/1.1[crlf]Host: scholar.ui.ac.id[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
+    "proxy": "scholar.ui.ac.id:443",
+    "sni": "[host]",
+    "enhanced": ""
+  },
+      "ilpedv2": {
+    "title": "TSEL ILPED",
+    "payload": "GET /  HTTP/1.1[crlf]Host: ais-research.telkomuniversity.ac.id[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
+    "proxy": "ais-research.telkomuniversity.ac.id:443",
+    "sni": "[host]",
+    "enhanced": ""
+  },
     "ilpedv1": {
     "title": "TSEL ILPED",
     "payload": "GET /  HTTP/1.1[crlf]Host: support.zoom.us[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
