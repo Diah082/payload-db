@@ -16,8 +16,8 @@
   },
       "ilpedv2": {
     "title": "TSEL ILPED",
-    "payload": "GET /  HTTP/1.1[crlf]Host: ais-research.telkomuniversity.ac.id[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
-    "proxy": "ais-research.telkomuniversity.ac.id:443",
+    "payload": "GET /  HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
+    "proxy": "ads.ruangguru.com:443",
     "sni": "[host]",
     "enhanced": ""
   },
