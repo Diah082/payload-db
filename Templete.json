@@ -6,20 +6,12 @@
     "sni": "",
     "enhanced": "true"
   },
-  
-      "ilpedv3": {
-    "title": "TSEL ILPED Champion",
-    "payload": "GET / HTTP/1.1[crlf]Host: champion.ruangguru.com.[host][crlf]Connection: Keep-Alive[crlf]Upgrade:websocket[crlf][crlf]",
-    "proxy": "188.114.97.2:443",
-    "sni": "champion.ruangguru.com.[host]",
-    "enhanced": "true"
-  },
-      "ilpedv2": {
-    "title": "TSEL ILPED Ads",
-    "payload": "GET / HTTP/1.1[crlf]Host: ads.ruangguru.com.[host][crlf]Connection: Keep-Alive[crlf]Upgrade:websocket[crlf][crlf]",
-    "proxy": "ads.ruangguru.com:443",
-    "sni": "ads.ruangguru.com.[host]",
-    "enhanced": "true"
+    "ilpedv2": {
+    "title": "TSEL ILPED QUIPER TLS",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Keep-Alive[crlf]Upgrade:websocket[crlf][crlf]",
+    "proxy": " api.quipper.com:443",
+    "sni": "[host]",
+    "enhanced": ""
   },
     "ilpedv1": {
     "title": "TSEL ILPED",
