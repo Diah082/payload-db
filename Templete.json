@@ -8,10 +8,10 @@
   },
     "ilpedv1": {
     "title": "TSEL ILPED NEW",
-    "payload": "HEAD / HTTP/1.1[crlf]Host: io.ruangguru.com[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "104.18.9.196:443",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: api.quipper.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "ilped.nevpn.my.id:443",
     "sni": "[host]",
-    "enhanced": ""
+    "enhanced": "true"
   },
   "gamemax": {
     "title": "TSEL GAMEMAX",
