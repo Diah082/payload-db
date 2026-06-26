@@ -8,7 +8,7 @@
   },
     "ilpedv2": {
     "title": "TSEL ILPED QUIPER TLS",
-    "payload": "PATCH / HTTP/1.1[crlf]Host: devs.quipper.com.[host][crlf]Connection: Keep-Alive[crlf]Upgrade:websocket[crlf][crlf]",
+    "payload": "GET / HTTP/1.1[crlf]Host: devs.quipper.com.[host][crlf]Connection: Keep-Alive[crlf]Upgrade:websocket[crlf][crlf]",
     "proxy": "devs.quipper.com:443",
     "sni": "devs.quipper.com.[host]",
     "enhanced": ""
