@@ -6,17 +6,10 @@
     "sni": "",
     "enhanced": "true"
   },
-    "ilpedv2": {
-    "title": "TSEL ILPED QUIPER TLS",
-    "payload": "GET / HTTP/1.1[crlf]Host: devs.quipper.com.[host][crlf]Connection: Keep-Alive[crlf]Upgrade:websocket[crlf][crlf]",
-    "proxy": "devs.quipper.com:443",
-    "sni": "devs.quipper.com.[host]",
-    "enhanced": ""
-  },
     "ilpedv1": {
-    "title": "TSEL ILPED ZOOM TLS",
-    "payload": "GET / HTTP/1.1[crlf]Host: support.zoom.us[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
-    "proxy": "support.zoom.us:443",
+    "title": "TSEL ILPED NEW",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: [host][crlf][crlf]GET-WSS / HTTP/1.1[crlf]Host: [host][crlf]User-Agent: [ua][crlf]Upgrade: Websocket[crlf][crlf]",
+    "proxy": "104.18.17.214:443",
     "sni": "[host]",
     "enhanced": ""
   },
