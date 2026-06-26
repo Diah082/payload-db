@@ -9,21 +9,21 @@
   
       "ilpedv3": {
     "title": "TSEL ILPED",
-    "payload": "GET /  HTTP/1.1[crlf]Host: scholar.ui.ac.id[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
-    "proxy": "scholar.ui.ac.id:443",
-    "sni": "[host]",
-    "enhanced": ""
+    "payload": "GET / HTTP/1.1[crlf]Host: champion.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
+    "proxy": "188.114.97.2:80",
+    "sni": "",
+    "enhanced": "true"
   },
       "ilpedv2": {
     "title": "TSEL ILPED",
-    "payload": "GET /  HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
-    "proxy": "ads.ruangguru.com:443",
-    "sni": "[host]",
-    "enhanced": ""
+    "payload": "GET / HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
+    "proxy": "ads.ruangguru.com:80",
+    "sni": "",
+    "enhanced": "true"
   },
     "ilpedv1": {
     "title": "TSEL ILPED",
-    "payload": "GET /  HTTP/1.1[crlf]Host: support.zoom.us[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
+    "payload": "GET / HTTP/1.1[crlf]Host: support.zoom.us[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
     "proxy": "support.zoom.us:443",
     "sni": "[host]",
     "enhanced": ""
