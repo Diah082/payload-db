@@ -8,8 +8,8 @@
   },
     "ilpedv2": {
     "title": "TSEL ILPED QUIPER TLS",
-    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Keep-Alive[crlf]Upgrade:websocket[crlf][crlf]",
-    "proxy": " api.quipper.com:443",
+    "payload": "PATCH / HTTP/1.1[crlf]Host: [host][crlf]Host: devs.quipper.com[crlf]Connection: Keep-Alive[crlf]Upgrade:websocket[crlf][crlf]",
+    "proxy": "ilped.nevpn.my.id:443",
     "sni": "[host]",
     "enhanced": ""
   },
@@ -107,7 +107,7 @@
   "edu JS": {
     "title": "XL/AXIS EDUKASI JABAR SUMATRA",
     "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
-    "proxy": "info.axissecurity.com:80",
+    "proxy": "ads.ruangguru.com:80",
     "sni": "",
     "enhanced": "true"
   },
