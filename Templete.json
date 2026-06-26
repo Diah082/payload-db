@@ -8,14 +8,14 @@
   },
   
       "ilpedv3": {
-    "title": "TSEL ILPED",
+    "title": "TSEL ILPED Champion",
     "payload": "GET / HTTP/1.1[crlf]Host: champion.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
     "proxy": "188.114.97.2:80",
     "sni": "",
     "enhanced": "true"
   },
       "ilpedv2": {
-    "title": "TSEL ILPED",
+    "title": "TSEL ILPED Ads",
     "payload": "GET / HTTP/1.1[crlf]Host: ads.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
     "proxy": "ads.ruangguru.com:80",
     "sni": "",
