@@ -8,10 +8,10 @@
   },
     "ilpedv1": {
     "title": "TSEL ILPED NEW",
-    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: api.quipper.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "ilpedv1.nevpn.my.id:443",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: [ua][crlf][crlf]",
+    "proxy": "104.18.9.196:443",
     "sni": "[host]",
-    "enhanced": "true"
+    "enhanced": ""
   },
       "ilpedunes": {
     "title": "TSEL ILPED UNNES",
