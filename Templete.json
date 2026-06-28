@@ -13,6 +13,20 @@
     "sni": "[host]",
     "enhanced": "true"
   },
+      "ilpedunes": {
+    "title": "TSEL ILPED UNNES",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: elena.unnes.ac.id[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "elena.unnes.ac.id:443",
+    "sni": "[host]",
+    "enhanced": "true"
+  },
+      "ilpeditera": {
+    "title": "TSEL ILPED ITERA",
+    "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: tik.itera.ac.id[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "tik.itera.ac.id:443",
+    "sni": "[host]",
+    "enhanced": "true"
+  },
     "ilped": {
     "title": "TSEL ILPED SNI",
     "payload": "",
