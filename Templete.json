@@ -136,8 +136,8 @@
     "title": "ISAT EDU 30 GB",
     "payload": "",
     "proxy": "",
-    "sni": "teams.live.com",
-    "enhanced": "true"
+    "sni": "support.zoom.us",
+    "enhanced": ""
   },
   "isatedu12": {
     "title": "ISAT EDU 12 GB",
