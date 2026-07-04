@@ -97,26 +97,12 @@
     "sni": "",
     "enhanced": ""
   },
-  "edu JS": {
-    "title": "XL/AXIS EDUKASI JABAR SUMATRA",
-    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
-    "proxy": "ads.ruangguru.com:80",
-    "sni": "",
-    "enhanced": "true"
-  },
     "eduv1": {
-    "title": "XL/AXIS EDUKASI V1 JABARR SUMATRA",
+    "title": "XL/AXIS EDUKASI ALL TKP",
     "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
     "proxy": "support.udemy.com:80",
     "sni": "",
     "enhanced": "true"
-  },
-  "edu NJS": {
-    "title": "XL/AXIS EDUKASI NON JABAR SUMATRA",
-    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
-    "proxy": "support.udemy.com:80",
-    "sni": "",
-    "enhanced": ""
   },
   "con NJS": {
     "title": "XL/AXIS CONFRECE NON JABAR SUMATRA",
