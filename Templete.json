@@ -64,10 +64,10 @@
   },
   "WA JS": {
     "title": "XL AXIS WA JABAR SUMATRA",
-    "payload": "",
-    "proxy": "",
-    "sni": "listen.noice.id",
-    "enhanced": ""
+    "payload": "GET / HTTP/1.1[crlf]Host: listen.noice.id:80[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf][crlf]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "listen.noice.id:80",
+    "sni": "",
+    "enhanced": "true"
   },
   "WA NJS": {
     "title": "XL AXIS WA NON JABAR SUMATRA",
