@@ -1,23 +1,23 @@
 {
-  "ilped_cloudfront": {
+  "ilped_front": {
     "title": "ILPED CLOUDFRONT",
     "value": "appassets.kuncie.com",
     "wildcard": false,
     "sni": false
   },
-  "ilped_new": {
+  "ilpedv1": {
     "title": "ILPED NEW",
     "value": "104.18.9.196",
     "wildcard": false,
     "sni": false
   },
-  "ilped_quiper": {
+  "ilpedqui": {
     "title": "ILPED QUIPER",
     "value": "api.quipper.com",
     "wildcard": true,
     "sni": false
   },
-  "xl_vidio_port_443": {
+  "vidio": {
     "title": "XL VIDIO PORT 443",
     "value": "quiz.vidio.com",
     "wildcard": false,
@@ -29,49 +29,43 @@
     "wildcard": false,
     "sni": false
   },
-  "xl_edu_wc": {
+  "edu": {
     "title": "XL EDU WC",
-    "value": "support.udemy.com",
-    "wildcard": true,
-    "sni": false
-  },
-  "xl_edu_alltkp": {
-    "title": "XL EDU ALLTKP",
-    "value": "elearning.uty.ac.id",
+    "value": "104.17.3.81",
     "wildcard": false,
     "sni": false
   },
-  "xl_gamemax_js_port_443": {
-    "title": "XL GAMEMAX JS PORT 443",
-    "value": "i.nimo.tv",
+  "gamemax": {
+    "title": "TSEL GAMEMAX",
+    "value": "ir.huya.com",
     "wildcard": false,
     "sni": true
   },
-  "xl_game_opok": {
+  "game": {
     "title": "XL GAME OPOK",
     "value": "poe.garena.com",
     "wildcard": false,
     "sni": false
   },
-  "xl_tiktok_wc": {
+  "tiktok": {
     "title": "XL TIKTOK WC",
     "value": "api24-normal.tiktokv.com",
     "wildcard": true,
     "sni": false
   },
-  "xl_tiktok_js_port_443": {
-    "title": "XL TIKTOK JS PORT 443",
+  "tiktokv1": {
+    "title": "TELKOMSEL TIKTOK JS",
     "value": "api24-normal.tiktokv.com",
     "wildcard": false,
     "sni": true
   },
-  "xl_axis_wa_sfchat": {
+  "sfchat": {
     "title": "XL AXIS WA SFCHAT",
     "value": "chat.whatsapp.com",
     "wildcard": false,
     "sni": true
   },
-  "opok_xl_prioritas_1gb_wc": {
+  "prio": {
     "title": "OPOK XL PRIORITAS 1 GB WC",
     "value": "ava.game.naver.com",
     "wildcard": true,
@@ -83,43 +77,43 @@
     "wildcard": false,
     "sni": false
   },
-  "xl_iflix_js_port_443": {
+  "iflix": {
     "title": "XL IFLIX JS PORT 443",
     "value": "www.iflix.com",
     "wildcard": false,
     "sni": true
   },
-  "xl_axis_wa_js_port_443": {
-    "title": "XL AXIS WA JS PORT 443",
+  "wa js": {
+    "title": "XL AXIS WA JS WC",
     "value": "listen.noice.id",
-    "wildcard": false,
-    "sni": true
+    "wildcard": true,
+    "sni": false
   },
-  "xl_axis_wa_njs_port_80": {
+  "wa njs": {
     "title": "XL AXIS WA NJS PORT 80",
     "value": "104.18.1.196",
     "wildcard": false,
     "sni": false
   },
-  "isat_fun_netflix_wc": {
+  "appfun": {
     "title": "ISAT FUN [NETFLIX] WC",
     "value": "cache.netflix.com",
     "wildcard": true,
     "sni": false
   },
-  "isat_fun_spotify_wc": {
-    "title": "ISAT FUN [SPOTIFY] WC",
+  "spotify": {
+    "title": "AXIS MUSIK [SPOTIFY] WC",
     "value": "investors.spotify.com",
     "wildcard": true,
     "sni": false
   },
-  "confrece_zoom_ws_xl_halo_flexy": {
+  "zoom": {
     "title": "CONFRECE ZOOM WS XL / HALO FLEXY",
     "value": "support.zoom.us",
     "wildcard": true,
     "sni": false
   },
-  "isat_edu_js_port_443": {
+  "isat30": {
     "title": "ISAT EDU JS PORT 443",
     "value": "support.zoom.us",
     "wildcard": false,
