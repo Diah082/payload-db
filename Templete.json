@@ -2,7 +2,7 @@
   "sushi": {
     "title": "AXIS SUSHIROLL",
     "payload": "GET / HTTP/1.1[crlf]Host: www.sushiroll.co.id[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "104.21.69.223:80",
+    "proxy": "www.sushiroll/co.id:80",
     "sni": "",
     "enhanced": "true"
   },
