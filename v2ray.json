@@ -84,13 +84,7 @@
     "sni": true
   },
   "wa js": {
-    "title": "XL AXIS WA JABAR",
-    "value": "listen.noice.id",
-    "wildcard": false,
-    "sni": true
-  },
-    "wa ks": {
-    "title": "XL AXIS WA SUMATRA",
+    "title": "XL AXIS WA JABAR SUMATRA",
     "value": "listen.noice.id",
     "wildcard": true,
     "sni": false
