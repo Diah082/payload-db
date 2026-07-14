@@ -84,13 +84,19 @@
     "sni": true
   },
   "wa js": {
-    "title": "XL AXIS WA JS WC",
+    "title": "XL AXIS WA JABAR",
+    "value": "listen.noice.id",
+    "wildcard": false,
+    "sni": true
+  },
+    "wa ks": {
+    "title": "XL AXIS WA SUMATRA",
     "value": "listen.noice.id",
     "wildcard": true,
     "sni": false
   },
   "wa njs": {
-    "title": "XL AXIS WA NJS PORT 80",
+    "title": "XL AXIS WA NJS",
     "value": "104.18.1.196",
     "wildcard": false,
     "sni": false
