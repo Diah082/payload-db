@@ -77,7 +77,7 @@
     "enhanced": "true"
   },
   "musik": {
-    "title": "XL/AXIS MUSIK SPOTIFY",
+    "title": "XL AXIS MUSIK SPOTIFY",
     "payload": "PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: investors.spotify.com[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
     "proxy": "investors.spotify.com:80",
     "sni": "",
@@ -126,35 +126,35 @@
     "enhanced": ""
   },
     "edu js": {
-    "title": "XL/AXIS EDUKASI JABAR SUMATRA",
+    "title": "XL AXIS EDUKASI JABAR SUMATRA",
     "payload": "HEAD / HTTP/1.1[crlf]Host: io.ruangguru.com:80[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "104.17.74.206:80",
     "sni": "",
     "enhanced": "true"
   },
     "eduv1": {
-    "title": "XL/AXIS EDUKASI ALL TKP",
+    "title": "XL AXIS EDUKASI ALL TKP",
     "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
     "proxy": "support.udemy.com:80",
     "sni": "",
     "enhanced": "true"
   },
     "edu njs": {
-    "title": "XL/AXIS EDUKASI NJS",
+    "title": "XL AXIS EDUKASI NJS",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade:websocket[crlf][crlf]",
     "proxy": "104.17.3.81:80",
     "sni": "",
     "enhanced": ""
   },
   "con NJS": {
-    "title": "XL/AXIS CONFRECE NON JABAR SUMATRA",
+    "title": "XL AXIS CONFRECE NON JABAR SUMATRA",
     "payload": "PATCH /ssh-ws HTTP/1.1[crlf]Host: [host][crlf]Host: partner.zoom.us[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
     "proxy": "cdn-cf.zoom.us:80",
     "sni": "",
     "enhanced": ""
   },
   "con JS": {
-    "title": "XL/AXIS CONFRECE JABAR SUMATRA",
+    "title": "XL AXIS CONFRECE JABAR SUMATRA",
     "payload": "GET / HTTP/1.1[crlf]Host: support.zoom.us.[host][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]",
     "proxy": "support.zoom.us:443",
     "sni": "support.zoom.us.[host]",
