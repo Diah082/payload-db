@@ -86,8 +86,8 @@
   "wa js": {
     "title": "XL AXIS WA JABAR SUMATRA",
     "value": "listen.noice.id",
-    "wildcard": true,
-    "sni": false
+    "wildcard": false,
+    "sni": true
   },
   "wa njs": {
     "title": "XL AXIS WA NJS",
