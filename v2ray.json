@@ -78,7 +78,7 @@
     "sni": false
   },
   "iflix": {
-    "title": "XL IFLIX JS PORT 443",
+    "title": "XL IFLIX",
     "value": "www.iflix.com",
     "wildcard": false,
     "sni": true
