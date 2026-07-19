@@ -95,6 +95,12 @@
     "wildcard": true,
     "sni": false
   },
+    "wa jsv1": {
+    "title": "XL AXIS WA JABAR V1",
+    "value": "media.fcgk35-1.fna.whatsapp.com",
+    "wildcard": false,
+    "sni": true
+  },
   "wa njs": {
     "title": "XL AXIS WA NJS",
     "value": "104.18.1.196",
