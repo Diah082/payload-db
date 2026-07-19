@@ -39,7 +39,7 @@
     "title": "TSEL GAMEMAX",
     "value": "ir.huya.com",
     "wildcard": false,
-    "sni": true
+    "sni": false
   },
   "game": {
     "title": "XL GAME OPOK",
