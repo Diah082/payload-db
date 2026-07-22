@@ -122,8 +122,8 @@
   "zoom": {
     "title": "CONFRECE ZOOM WS XL / HALO FLEXY",
     "value": "support.zoom.us",
-    "wildcard": true,
-    "sni": false
+    "wildcard": false,
+    "sni": true
   },
   "isat30": {
     "title": "ISAT EDU JS PORT 443",
