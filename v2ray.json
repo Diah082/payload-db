@@ -120,6 +120,12 @@
     "sni": false
   },
   "zoom": {
+    "title": "XL CONFRECE WC",
+    "value": "support.zoom.us",
+    "wildcard": true,
+    "sni": false
+  },
+  "flexy": {
     "title": "CONFRECE ZOOM WS XL / HALO FLEXY",
     "value": "support.zoom.us",
     "wildcard": false,
