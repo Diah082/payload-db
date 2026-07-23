@@ -148,16 +148,16 @@
   },
     "edu js": {
     "title": "XL AXIS EDUKASI JABAR SUMATRA",
-    "payload": "HEAD / HTTP/1.1[crlf]Host: io.ruangguru.com:80[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "104.17.74.206:80",
+    "payload": "HEAD / HTTP/1.1[crlf]Host: edu.ruangguru.com[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf][crlf]BMOVE / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "learn.appsflyer.com:80",
     "sni": "",
     "enhanced": "true"
   },
     "eduv1": {
     "title": "XL AXIS EDUKASI ALL TKP",
-    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
-    "proxy": "support.udemy.com:80",
-    "sni": "",
+    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Upgrade[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf][split]HTTP/enhanced 200 Ok[crlf]",
+    "proxy": "support.udemy.com:443",
+    "sni": "[host]",
     "enhanced": "true"
   },
     "edu njs": {
