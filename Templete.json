@@ -155,10 +155,10 @@
   },
     "eduv1": {
     "title": "XL AXIS EDUKASI ALL TKP",
-    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Upgrade[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
+    "payload": "GET / HTTP/1.1[crlf]Host: support.udemy.com[crlf]Connection: Upgrade[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
     "proxy": "support.udemy.com:443",
     "sni": "[host]",
-    "enhanced": "true"
+    "enhanced": ""
   },
     "edu njs": {
     "title": "XL AXIS EDUKASI NJS",
