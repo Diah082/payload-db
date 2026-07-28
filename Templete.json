@@ -160,13 +160,6 @@
     "sni": "",
     "enhanced": "true"
   },
-  "edussl": {
-    "title": "XL AXIS EDUKASI SSL",
-    "payload": "",
-    "proxy": "",
-    "sni": "audisi.ruangguru.com",
-    "enhanced": ""
-  },
     "eduv1": {
     "title": "XL AXIS EDUKASI TASIK DAN SEKITARNYA",
     "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Upgrade[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
