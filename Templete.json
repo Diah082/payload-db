@@ -48,6 +48,13 @@
     "sni": "[host]",
     "enhanced": ""
   },
+    "ilped": {
+    "title": "TSEL ILPED SSL",
+    "payload": "",
+    "proxy": "",
+    "sni": "practicesets.classroom.google.com",
+    "enhanced": ""
+  },
     "halo flexy": {
     "title": "TSEL HALLO FLEXY",
     "payload": "",
