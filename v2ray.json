@@ -131,9 +131,9 @@
     "wildcard": false,
     "sni": true
   },
-  "isat30": {
-    "title": "ISAT EDU JS PORT 443",
-    "value": "support.zoom.us",
+  "isatedu": {
+    "title": "ISAT EDU 12GB",
+    "value": "privacy.teams.live.com",
     "wildcard": false,
     "sni": true
   }
