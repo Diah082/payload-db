@@ -163,7 +163,7 @@
     "eduv1": {
     "title": "XL AXIS EDUKASI JABAR V1",
     "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Upgrade[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
-    "proxy": "support.udemy.com:80",
+    "proxy": "104.18.248.37:80",
     "sni": "",
     "enhanced": "true"
   },
