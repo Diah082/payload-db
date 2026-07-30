@@ -205,7 +205,7 @@
   "appfun": {
     "title": "ISAT APPFUNS",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: creativeservices.netflix.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]]",
-    "proxy": "104.17.241.25:80",
+    "proxy": "creativeservices.netflix.com:80",
     "sni": "",
     "enhanced": "true"
   },
