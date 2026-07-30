@@ -188,11 +188,11 @@
     "sni": "support.zoom.us.[host]",
     "enhanced": ""
   },
-    "isatedu30": {
-    "title": "ISAT EDU 30 GB",
+    "isatedu": {
+    "title": "ISAT EDU 12 GB",
     "payload": "",
     "proxy": "",
-    "sni": "support.zoom.us",
+    "sni": "privacy.teams.live.com",
     "enhanced": ""
   },
   "fb": {
