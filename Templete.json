@@ -155,14 +155,14 @@
   },
     "edu js": {
     "title": "XL AXIS EDUKASI JABAR SUMATRA",
-    "payload": "GET / HTTP/1.1[crlf]Host: edu.ruangguru.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "payload": "GET / HTTP/1.1[lf]Host: edu.ruangguru.com[lf][lf]PATCH / HTTP/1.1[lf]Host: [host][lf]Upgrade: websocket[crlf][crlf]",
     "proxy": "chat.sociomile.com:80",
     "sni": "",
     "enhanced": "true"
   },
     "eduv1": {
     "title": "XL AXIS EDUKASI JABAR V1",
-    "payload": "GET / HTTP/1.1[crlf]Host: audisi.ruangguru.com[crlf]Connection: Upgrade[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade:websocket[crlf][crlf]",
+    "payload": "GET / HTTP/1.1[lf]Host: audisi.ruangguru.com[lf]Connection: Upgrade[lf][lf]PATCH / HTTP/1.1[crlf]Host: [host][lf]Upgrade:websocket[crlf][crlf]",
     "proxy": "audisi.ruangguru.com:80",
     "sni": "",
     "enhanced": "true"
