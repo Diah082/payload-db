@@ -1,5 +1,5 @@
 {
-  "ilped_front": {
+  "ilped_cloudfront": {
     "title": "ILPED CLOUDFRONT",
     "value": "appassets.kuncie.com",
     "wildcard": false,
