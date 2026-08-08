@@ -17,6 +17,24 @@
     "wildcard": true,
     "sni": false
   },
+    "ig": {
+    "title": "XL AXIS IG JS",
+    "value": "graph.instagram.com",
+    "wildcard": false,
+    "sni": true
+  }, 
+    "fb js": {
+    "title": "XL AXIS FB JS",
+    "value": "graph.facebook.com",
+    "wildcard": false,
+    "sni": true
+  },
+    "fb njs": {
+    "title": "XL AXIS FB NJS",
+    "value": "investor.fb.com",
+    "wildcard": false,
+    "sni": false
+  },
   "vidio": {
     "title": "XL VIDIO PORT 443",
     "value": "quiz.vidio.com",
