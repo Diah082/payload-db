@@ -131,10 +131,16 @@
     "wildcard": true,
     "sni": false
   },
-  "spotify": {
+  "musik": {
     "title": "AXIS MUSIK [SPOTIFY] WC",
     "value": "investors.spotify.com",
     "wildcard": true,
+    "sni": false
+  },
+    "spotify": {
+    "title": "AXIS MUSIK [SPOTIFY]",
+    "value": "community.spotify.com",
+    "wildcard": false,
     "sni": false
   },
   "zoom": {
