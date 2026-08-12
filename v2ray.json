@@ -11,11 +11,11 @@
     "wildcard": false,
     "sni": false
   },
-  "ilpedqui": {
-    "title": "ILPED QUIPER",
-    "value": "api.quipper.com",
-    "wildcard": true,
-    "sni": false
+  "ilpedv2": {
+    "title": "ILPED CLASROOM",
+    "value": "classroom.google.com",
+    "wildcard": false,
+    "sni": true
   },
     "ig": {
     "title": "XL AXIS IG JS",
