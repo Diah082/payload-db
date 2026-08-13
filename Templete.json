@@ -7,14 +7,14 @@
     "enhanced": ""
   },
   "triopok": {
-    "title": "TRI OPOK",
+    "title": "THREE OPOK",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "104.21.22.52:80",
     "sni": "",
     "enhanced": ""
   },
     "tselopok": {
-    "title": "TELKOMSEL OPOK",
+    "title": "TSEL OPOK",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: my.telkomsel.com[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Service: SSH[crlf]ModeX: Bypass[crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "my.telkomsel.com:443",
     "sni": "[Host]",
@@ -249,6 +249,13 @@
     "payload": "",
     "proxy": "",
     "sni": "graph.instagram.com",
+    "enhanced": ""
+  },
+    "fb js": {
+    "title": "XL AXIS FB JS",
+    "payload": "",
+    "proxy": "",
+    "sni": "graph.facebook.com",
     "enhanced": ""
   }
 }
