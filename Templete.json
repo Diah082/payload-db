@@ -41,6 +41,20 @@
     "sni": "",
     "enhanced": "true"
   },
+    "genflix": {
+    "title": "AXIS XL GENFLIX",
+    "payload": "GET / HTTP/1.1[crlf]Host: genflix.co.id[crlf]Connection: Keep-Alive[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "link.genflix.co.id:80",
+    "sni": "",
+    "enhanced": "true"
+  },
+    "komik": {
+    "title": "AXIS KOMIK",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Keep-Alive[crlf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "go2.webtoons.com:80",
+    "sni": "",
+    "enhanced": "true"
+  },  
     "ilpedv1": {
     "title": "TSEL ILPED NEW",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: [ua][crlf][crlf]",
