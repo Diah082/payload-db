@@ -169,7 +169,7 @@
   },
     "edu js": {
     "title": "XL AXIS EDUKASI JABAR SUMATRA",
-    "payload": "GET / HTTP/1.1[lf]Host: edu.ruangguru.com[lf]Connection: keep-alive[lf][lf]PATCH / HTTP/1.1[lf]Host: [host][lf]Upgrade: websocket[crlf][crlf]",
+    "payload": "GET / HTTP/1.1[lf]Host: edu.ruangguru.com[lf][lf]PATCH / HTTP/1.1[lf]Host: [host][lf]Connection: keep-alive[lf]Upgrade: websocket[crlf][crlf]",
     "proxy": "edujs.nevpn.my.id:80",
     "sni": "",
     "enhanced": "true"
