@@ -23,7 +23,7 @@
     "sfopok": {
     "title": "SMARTFREN OPOK",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: embed.tawk.to[crlf][crlf]CF-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "api.ovo.id:443",
+    "proxy": "media.ovo.id:443",
     "sni": "[host]",
     "enhanced": ""
   },
