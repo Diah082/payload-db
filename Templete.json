@@ -169,9 +169,9 @@
   },
     "edu js": {
     "title": "XL AXIS EDUKASI JABAR SUMATRA",
-    "payload": "GET / HTTP/1.1[lf]Host: layanan.ruangguru.com[lf][lf]PATCH / HTTP/1.1[lf]Host: [host][lf]Connection: Upgrade[lf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "layanan.nevpn.my.id:443",
-    "sni": "[host]",
+    "payload": "GET / HTTP/1.1[lf]Host: asuransi.ruangguru.com[lf][lf]PATCH / HTTP/1.1[lf]Host: [host][lf]Connection: Upgrade[lf]Upgrade: websocket[crlf][crlf]",
+    "proxy": "layanan.nevpn.my.id:80",
+    "sni": "",
     "enhanced": "true"
   },
     "eduv1": {
