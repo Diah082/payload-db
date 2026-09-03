@@ -90,6 +90,13 @@
     "sni": "api24-normal.tiktokv.com",
     "enhanced": ""
   },
+    "3sosmed": {
+    "title": "THREE SOSMED",
+    "payload": "HEAD / HTTP/1.1[crlf]Host: apac-marketing.tiktok.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf][crlf][split]HTTP/ 1[crlf][crlf]",
+    "proxy": "162.159.141.236:80",
+    "sni": "",
+    "enhanced": "true"
+  },
   "XL PRIO": {
     "title": "XL OPOK PRIO",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: ava.game.naver.com[crlf]Connection: Keep-Alive[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: websocket[crlf][crlf]",
