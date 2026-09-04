@@ -189,11 +189,11 @@
     "enhanced": "true"
   },
     "eduv2": {
-    "title": "XL AXIS EDUKASI JABAR V2",
-    "payload": "GET / HTTP/1.1[lf]Host: layanan.ruangguru.com[lf]Connection: Upgrade[lf][lf]PATCH / HTTP/1.1[crlf]Host: [host][lf]Upgrade:websocket[crlf][crlf]",
-    "proxy": "104.21.83.135:80",
-    "sni": "",
-    "enhanced": "true"
+    "title": "XL AXIS EDUKASI JABAR SSL",
+    "payload": "",
+    "proxy": "",
+    "sni": "cdn-web-2.ruangguru.com",
+    "enhanced": ""
   },
     "edu njs": {
     "title": "XL AXIS EDUKASI NJS",
