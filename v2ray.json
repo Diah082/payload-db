@@ -7,7 +7,7 @@
   },
   "ilpedv1": {
     "title": "ILPED NEW",
-    "value": "104.18.9.196",
+    "value": "api.quipper.com",
     "wildcard": false,
     "sni": false
   },
@@ -49,7 +49,7 @@
   },
   "edu": {
     "title": "XL EDU NJS",
-    "value": "104.17.3.81",
+    "value": "edunjs.nevpn.my.id",
     "wildcard": false,
     "sni": false
   },
