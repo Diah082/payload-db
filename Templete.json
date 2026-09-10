@@ -16,7 +16,7 @@
     "tselopok": {
     "title": "TSEL OPOK",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: my.telkomsel.com[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Service: SSH[crlf]ModeX: Bypass[crlf]Upgrade: websocket[crlf][crlf]",
-    "proxy": "my.telkomsel.com:443",
+    "proxy": "104.18.17.214:443",
     "sni": "[Host]",
     "enhanced": ""
   },
