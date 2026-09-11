@@ -49,7 +49,7 @@
   },
   "edu": {
     "title": "XL EDU NJS",
-    "value": "edunjs.nevpn.my.id",
+    "value": "104.17.3.81",
     "wildcard": false,
     "sni": false
   },
