@@ -7,7 +7,7 @@
   },
   "ilpedv1": {
     "title": "ILPED NEW",
-    "value": "api.quipper.com",
+    "value": "104.18.8.196",
     "wildcard": false,
     "sni": false
   },
