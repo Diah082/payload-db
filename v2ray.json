@@ -1,7 +1,7 @@
 {
-  "ilped_cloudfront": {
-    "title": "ILPED CLOUDFRONT",
-    "value": "appassets.kuncie.com",
+  "ilped": {
+    "title": "ILPED",
+    "value": "170.114.46.6",
     "wildcard": false,
     "sni": false
   },
