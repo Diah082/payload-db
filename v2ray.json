@@ -1,6 +1,6 @@
 {
   "edugrpc": {
-    "title": "XL EDU NJS",
+    "title": "XL EDU GRPC",
     "value": "104.17.3.81",
     "wildcard": false,
     "sni": true
