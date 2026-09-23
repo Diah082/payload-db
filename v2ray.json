@@ -1,4 +1,10 @@
 {
+  "edugrpc": {
+    "title": "XL EDU NJS",
+    "value": "104.17.3.81",
+    "wildcard": false,
+    "sni": true
+  },
   "ilped": {
     "title": "ILPED",
     "value": "170.114.46.6",
