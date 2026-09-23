@@ -5,7 +5,7 @@
     "wildcard": false,
     "sni": true
   },
-  "xl": {
+  "xl_cloudfront": {
     "title": "XL OPOK UNLIMITED",
     "value": "13.249.231.85",
     "wildcard": false,
