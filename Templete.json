@@ -56,7 +56,7 @@
     "enhanced": ""
   },
     "ilped": {
-    "title": "TSEL ILPED SSL",
+    "title": "TSEL ILPED TIMUR",
     "payload": "GET /cdn-cgi/trace HTTP/1.1[crlf]Host: api.quipper.com[crlf][crlf]GET-RAY / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
     "proxy": "104.16.182.114:443",
     "sni": "[host]",
