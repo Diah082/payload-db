@@ -1,13 +1,7 @@
 {
-  "edugrpc": {
-    "title": "XL EDU GRPC",
-    "value": "www.ruangguru.com",
-    "wildcard": false,
-    "sni": true
-  },
   "xl_cloudfront": {
     "title": "XL OPOK UNLIMITED",
-    "value": "13.249.231.85",
+    "value": "store.cybertun.net",
     "wildcard": false,
     "sni": false
   },
