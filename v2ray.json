@@ -17,11 +17,11 @@
     "wildcard": false,
     "sni": false
   },
-  "ilpedv2": {
-    "title": "ILPED CLASROOM",
-    "value": "classroom.google.com",
+  "ilped_cloudfront": {
+    "title": "ILPED SUMATRA",
+    "value": "wpassets.kuncie.com",
     "wildcard": false,
-    "sni": true
+    "sni": false
   },
     "ig": {
     "title": "XL AXIS IG JS",
