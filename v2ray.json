@@ -5,6 +5,12 @@
     "wildcard": false,
     "sni": false
   },
+    "xlopok": {
+    "title": "XL OPOK UNLIMITED",
+    "value": "104.18.43.252",
+    "wildcard": false,
+    "sni": false
+  },
   "ilped": {
     "title": "ILPED",
     "value": "170.114.46.6",
