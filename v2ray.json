@@ -1,13 +1,7 @@
 {
   "xl_cloudfront": {
-    "title": "XL OPOK UNLIMITED",
+    "title": "XL OPOK CLOUDFRONT",
     "value": "13.249.231.85",
-    "wildcard": false,
-    "sni": false
-  },
-    "xlopok": {
-    "title": "XL OPOK UNLIMITED",
-    "value": "104.18.43.252",
     "wildcard": false,
     "sni": false
   },
