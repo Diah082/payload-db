@@ -84,7 +84,7 @@
     "enhanced": ""
   },
   "tiktok": {
-    "title": "XL TIKTOK/THREE SOSMED",
+    "title": "XL TIKTOK",
     "payload": "GET / HTTP/1.1[crlf]Host: api24-normal.tiktokv.com[crlf][crlf]PATCH / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf][crlf]",
     "proxy": "api24-normal.tiktokv.com:80",
     "sni": "",
@@ -97,8 +97,8 @@
     "sni": "api24-normal.tiktokv.com",
     "enhanced": ""
   },
-    "3sosmed": {
-    "title": "THREE SOSMED SSL",
+    "tseltiktok": {
+    "title": "SF TSEL TIKTOK SSL",
     "payload": "",
     "proxy": "",
     "sni": "www.tiktok.com",
