@@ -62,6 +62,13 @@
     "sni": "",
     "enhanced": "true"
   },  
+    "ilped": {
+    "title": "TSEL ILPED Jateng",
+    "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: [ua][crlf][crlf]",
+    "proxy": "104.18.8.196:80",
+    "sni": "",
+    "enhanced": ""
+  },
     "ilpedv1": {
     "title": "TSEL ILPED NEW",
     "payload": "GET / HTTP/1.1[crlf]Host: [host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]User-Agent: [ua][crlf][crlf]",
